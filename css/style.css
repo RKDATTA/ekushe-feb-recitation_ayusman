@@ -1,0 +1,52 @@
+
+body{
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Roboto', sans-serif;
+    background-image: url("images/1.jpg");
+    background-color: orange;
+}
+
+header h1{
+    text-align: center;
+    margin-right: 300px;
+    margin-top: 50px;
+}
+
+header h2{
+    text-align: center;
+    margin-right: 300px;
+}
+
+header p{
+    text-align: center;
+    margin-right: 300px;;
+}
+
+
+.penguin-left h1{
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.text-yellow{
+    color:white;
+}
+
+header{
+    width: 1440px;
+    height: 250px;
+}
+
+#video-area video{
+    width: 650px;
+    height: 400px;
+    margin-top: -80px;
+    margin-left: 250px;
+}
+
+.social-icon img{
+    width: 20px;
+    height:20px;
+    margin:5px;
+}
+
